@@ -4,7 +4,7 @@ Created by Conner Mostert
 
 The Australian government spent 1.5 Million dollars on developing the Covid tracing app and to date has spent over 5 
 Million dollars maintaining it. I can do it for cheaper on a Government subsidized laptop and all the knowledge of HIT137
-+ google. This program stores user’s data in a Hash table database. New clients can be added to the database and the 
+and google. This program stores user’s data in a Hash table database. New clients can be added to the database and the 
 information can be searched by designated users. All the client’s data is secured by Encryption algorithms, Hash algorithms,
 Bot prevention protocols, Code injection prevention systems and User password restricted access. If a client is 
 infected a User can see what codes are stored on the client’s app along with date and time. This will make contact 
